@@ -1,0 +1,32 @@
+{
+  "name": "meanstackemotions",
+  "version": "1.0.0",
+  "description": "To filter out stores based on people emotions",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atuls45/meanStackEmotions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atuls45/meanStackEmotions/issues"
+  },
+  "homepage": "https://github.com/atuls45/meanStackEmotions#readme",
+  "dependencies": {
+    "body-parser": "~1.15.1",
+    "cli-table2": "^0.2.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "ejs": "~2.4.1",
+    "express": "~4.13.4",
+    "glob": "^7.1.3",
+    "joi": "^14.3.1",
+    "mongoose": "^5.4.9",
+    "morgan": "~1.7.0",
+    "serve-favicon": "~2.3.0"
+  }
+}
